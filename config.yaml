@@ -1,0 +1,3 @@
+hostname: "MyShell"
+archive_path: "virtual_fs.tar"  
+startup_script: "startup.sh"   
